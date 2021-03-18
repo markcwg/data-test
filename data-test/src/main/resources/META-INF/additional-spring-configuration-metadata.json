@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "sys.url",
+      "type": "java.lang.String",
+      "description": "Description for sys.url."
+  }
+] }

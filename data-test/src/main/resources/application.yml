@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: data-test
+
+sys:
+  url: http://localhost:8989/data-docking/docking
